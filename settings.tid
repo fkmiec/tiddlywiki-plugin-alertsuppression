@@ -1,0 +1,11 @@
+created: 20221227204337349
+modified: 20221227211037419
+tags: 
+title: $:/plugins/fkmiec/alertsuppression/settings
+type: text/vnd.tiddlywiki
+
+!! Enable / Disable
+
+Suppression of repeat alerts is enabled by default. Uncheck below to disable suppression.
+
+<$checkbox tiddler="$:/plugins/fkmiec/alertsuppression/config/enabled" field="text" checked="yes" unchecked="no" default="yes"> Enable suppression of repeat alerts</$checkbox>

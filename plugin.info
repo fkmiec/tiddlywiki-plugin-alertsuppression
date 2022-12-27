@@ -1,0 +1,11 @@
+{
+	"title": "$:/plugins/fkmiec/alertsuppression",
+	"name": "Alert Suppression",
+	"description": "Suppress repeat alerts",
+	"author": "Frank Kmiec",
+	"version": "0.0.1",
+	"core-version": ">=5.0.8",
+	"source": "https://github.com/fkmiec/tiddlywiki-plugin-alertsuppression.git",
+	"plugin-type": "plugin",
+	"list": "readme settings license"
+}

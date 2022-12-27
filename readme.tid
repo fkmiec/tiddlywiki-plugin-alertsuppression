@@ -1,0 +1,9 @@
+created: 20221227204337349
+modified: 20221227211037419
+tags:
+title: $:/plugins/fkmiec/alertsuppression/readme
+type: text/vnd.tiddlywiki
+
+! Alert Suppression Plugin
+
+Suppress repeating alerts that typically occur when losing connectivity with the Node JS server or ~TiddlyWeb server. Those alerts intrude on the ability to continue working on the wiki until connectivity is restored. This plugin allows the initial alert to display, but if it repeats, it will no longer be displayed. The repeat alerts can be made visible again on the settings tab.
